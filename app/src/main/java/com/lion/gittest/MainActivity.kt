@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
         }
         
         Log.d("Test100", "하하하하하하하하")
+        Log.d("test100", "Test Branch")
     }
 }
