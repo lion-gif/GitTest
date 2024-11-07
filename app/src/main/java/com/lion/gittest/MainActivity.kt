@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         val test = 10 + 20
+        val test2 = 100 + 200
     }
 }
